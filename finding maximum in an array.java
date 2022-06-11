@@ -6,3 +6,4 @@ public static void max(int array[],int max) {
 		}
 		System.out.println(max);
 	}
+//time complexity is o(n)
