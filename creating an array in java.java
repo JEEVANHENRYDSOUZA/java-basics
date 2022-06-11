@@ -32,7 +32,7 @@ public class hello {
 	    marks[0]=1000;
 	    System.out.println(marks[0]);
 	    
-          
+          //marks will represent the 0th location of the array
 	}
 
 }
