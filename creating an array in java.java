@@ -33,6 +33,7 @@ public class hello {
 	    System.out.println(marks[0]);
 	    
           //marks will represent the 0th location of the array
+		//time complexity o(n)
 	}
 
 }
