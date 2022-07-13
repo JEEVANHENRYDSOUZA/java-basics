@@ -44,7 +44,7 @@ public class binarysearch {
         //if we have not found then the value which the left points to it is the first closest element to the key which we are looking for
         //calculate mid-value as l+(r-1)/2
         //coding binary search
-        //this code is only for non-repating elements in the array
+        //this code is only for non-repeating elements in the array
         int array[]={1,2,3,4,5,6,7,8,9};
         binarysearch(array,4);
 
