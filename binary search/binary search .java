@@ -11,10 +11,10 @@ public class binarysearch {
 
             }
             else if(array[mid]<key){
-                left=mid;
+                left=mid-1;
             }
             else{
-                right=mid;
+                right=mid+1;
             }
         }
         System.out.println("match not found");
